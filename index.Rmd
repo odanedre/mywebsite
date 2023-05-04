@@ -8,9 +8,9 @@ site: distill::distill_website
 
 :::float-image
 
-```{r, out.width='200px', out.extra='style="float:left; padding:10px"', echo=FALSE}
+```{r, out.width='250px', out.extra='style="float:left; padding:10px"', echo=FALSE}
 
-#knitr::include_graphics("/profile.png")
+knitr::include_graphics("profile.png")
 
 ```
 
