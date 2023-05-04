@@ -1,7 +1,7 @@
 name: "mywebsite"
-title: "My Website"
+title: "Oda Nedregård"
 description: |
-  My Website
+  Oda Nedregård
 output_dir: "docs"
 navbar:
   right:
