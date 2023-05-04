@@ -30,6 +30,10 @@ knitr::include_graphics("profile.png")
    
   Supervisors: Prof. [Jon Fiva] and Prof. [Benny Geys]. 
   
+  
+  Feel free to contact me at [oda.nedregard@bi.no][email]
+  
+  [email]: mailto:oda.nedregard@bi.no
 
   [CV]: https://www.dropbox.com/s/d2jcrbft33nwyov/cv_nedregard.pdf?dl=0
 
