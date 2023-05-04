@@ -16,7 +16,7 @@ knitr::include_graphics("profile.png")
 
 ```
 
-**PhD Candidate BI/Visiting Fellow Harvard University**
+**PhD Candidate BI Norwegian Business School/Visiting Fellow Harvard University**
 
   Welcome to my website!
   
@@ -27,17 +27,16 @@ knitr::include_graphics("profile.png")
   
   I have a Master's degree in Comparative Economics and Policy from University College London. My undergraduate studies cover economics, finance, business, and area and language studies.  
   
-  You can find my [CV here][CV], read more about my [research here](research.html), and my [Google Scholar profile here][GScholar] 
+  You can find my CV [here][CV], read more about my research [here](research.html), and my Google Scholar profile [here][GScholar] 
    
   Supervisors: Prof. [Jon Fiva] and Prof. [Benny Geys]. 
   
-[Twitter]
+   Feel free to contact me at [oda.nedregard@bi.no][email]
+  
  
-
-  Feel free to contact me at [oda.nedregard@bi.no][email]
-
-
-[Twitter]: https://twitter.com/NedregardOda
+  [`r fa("twitter", fill = "steelblue")`](https://twitter.com/NedregardOda)
+  [`r fa("envelope-open", fill = "steelblue")`][email]
+  [`r fa("book", fill = "steelblue")`][GScholar]
 
   [email]: mailto:oda.nedregard@bi.no
 
