@@ -4,7 +4,9 @@ description: |
 site: distill::distill_website
 
 ---
-
+```{r include=FALSE}
+library(fontawesome)
+``` 
 
 :::float-image
 
@@ -29,12 +31,14 @@ knitr::include_graphics("profile.png")
    
   Supervisors: Prof. [Jon Fiva] and Prof. [Benny Geys]. 
   
- ![follow-me](https://user-images.githubusercontent.com/6694151/50792013-9b812200-1291-11e9-9738-378daf992840.jpg)(https://twitter.com/NedregardOda)
+[Twitter]
  
-  ![follow-me](https://user-images.githubusercontent.com/6694151/50792013-9b812200-1291-11e9-9738-378daf992840.jpg)(https://twitter.com/NedregardOda)
-  
+
   Feel free to contact me at [oda.nedregard@bi.no][email]
-  
+
+
+[Twitter]: https://twitter.com/NedregardOda
+
   [email]: mailto:oda.nedregard@bi.no
 
   [CV]: https://www.dropbox.com/s/d2jcrbft33nwyov/cv_nedregard.pdf?dl=0
