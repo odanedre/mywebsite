@@ -1,0 +1,55 @@
+---
+title: "Oda Nedregård"
+description: |
+site: distill::distill_website
+
+---
+
+
+:::float-image
+
+```{r, out.width='200px', out.extra='style="float:left; padding:10px"', echo=FALSE}
+
+#knitr::include_graphics("/profile.png")
+
+```
+
+  Welcome to my website!
+  
+  
+  I am a final-year PhD Candidate in Economics at BI Norwegian Business School. In my dissertation, I am using Natural Language Processing to study the behaviour of political elites, with a focus on how political parties are functioning as a political intermediaries between voters and politicians. At its cote, my research touches on the underlying drivers and consequences of political polarization, populism, and (mis)representation.  
+  
+  Since August 2021, I have been affiliated with Harvard University as a Visiting Fellow at the Department of Government.  
+  
+  I have a Master's degree in Comparative Economics and Policy from University College London. My undergraduate studies cover economics, finance, business, and area and language studies.  
+  
+  My [CV]
+
+ 
+  You can find my Google Scholar profile [here][GScholar] 
+   
+  Supervisors: Prof. [Jon Fiva] and Prof. [Benny Geys]. 
+  
+
+  [CV]: https://www.dropbox.com/s/d2jcrbft33nwyov/cv_nedregard.pdf?dl=0
+
+  [GScholar]: https://scholar.google.com/citations?user=7HrD6BgAAAAJ
+  
+  [Jon Fiva]: https://www.jon.fiva.no/
+ 
+  [Benny Geys]: https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/
+   
+   
+:::
+
+
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
