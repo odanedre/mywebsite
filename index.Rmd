@@ -27,7 +27,7 @@ knitr::include_graphics("profile.png")
   
   I have a Master's degree in Comparative Economics and Policy from University College London. My undergraduate studies cover economics, finance, business, and area and language studies.  
   
-  You can find my CV [here][CV], read more about my research [here](research.html), and my Google Scholar profile [here][GScholar] 
+  You can find my CV [$\color{darkdarkblue}{\text{here}}$][CV], my Google Scholar profile [$\color{darkdarkblue}{\text{here}}$][GScholar], and read more about my research [$\color{darkdarkblue}{\text{here}}$](research.html)
    
   Supervisors: Prof. [Jon Fiva] and Prof. [Benny Geys]. 
   
