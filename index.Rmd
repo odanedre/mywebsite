@@ -40,7 +40,7 @@ knitr::include_graphics("profile.png")
 
   [email]: mailto:oda.nedregard@bi.no
 
-  [CV]: https://www.dropbox.com/s/d2jcrbft33nwyov/cv_nedregard.pdf?dl=0
+  [CV]: https://www.dropbox.com/s/9upj9ypmpm985mf/cv_nedregard.pdf?dl=0
 
   [GScholar]: https://scholar.google.com/citations?user=7HrD6BgAAAAJ
   
