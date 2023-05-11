@@ -21,7 +21,7 @@ knitr::include_graphics("profile.png")
   Welcome to my website!
   
   
-  I am a final-year PhD Candidate in Economics at BI Norwegian Business School. In my dissertation, I am using Natural Language Processing to study the behaviour of political elites, with a focus on how political parties are functioning as a political intermediaries between voters and politicians. At its cote, my research touches on the underlying drivers and consequences of political polarization, populism, and (mis)representation.  
+  I am a final-year PhD Candidate in Economics at BI Norwegian Business School. In my dissertation, I am using Natural Language Processing to study the behaviour of political elites, with a focus on how political parties are functioning as a political intermediaries between voters and politicians. At its core, my research touches on the underlying drivers and consequences of political polarization, populism, and (mis)representation.  
   
   Since August 2021, I have been affiliated with Harvard University as a Visiting Fellow at the Department of Government.  
   
