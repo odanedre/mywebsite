@@ -4,7 +4,6 @@ description: |
 
 ---
 
-
 ### Work in progress
 
 _The effect of legislative misalignment on representation of constituency interests_  
@@ -45,9 +44,7 @@ _Legislative party groups and party cohesion (book chapter)_
 
 ["Faglig interesserte studenter fullfører oftere utdanningen"][faglig_interessert], forskning.no (2018)
 
-
-
-[SpeechIsSilver]: https://www.dropbox.com/s/68hws80fyrt408y/SpeechIsSilver_Nedregard.pdf?dl=0
+[SpeechIsSilver]: https://www.dropbox.com/s/r92bvcvulwl0k8m/SpeechIsSilver.pdf?dl=0
 
 [LameDucks]: https://www.dropbox.com/s/ibgvleugtxzho7l/LameDucks.pdf?dl=0
 [GroupIdentities]: https://www.dropbox.com/s/vdb1qdehluvpkza/GroupIdentities.pdf?dl=0
