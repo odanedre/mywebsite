@@ -17,6 +17,9 @@ _The causal effect of trust in government on green policymaking_
 _Legislative party groups and party cohesion (book chapter)_  
 &nbsp; with Martin Søyland
 
+_Norwegian Legislative Debates 1945--2022_  
+&nbsp; with Jon Fiva
+
 ### Working papers
 
 [_Speech is Silver, Silence is Gold: Trade-offs between local and collective representation_][SpeechIsSilver] (2023)  
@@ -46,7 +49,7 @@ _Legislative party groups and party cohesion (book chapter)_
 
 [SpeechIsSilver]: https://www.dropbox.com/s/ch08n7fgbi38go0/SpeechIsSilver.pdf?dl=0
 
-[LameDucks]: https://www.dropbox.com/s/ibgvleugtxzho7l/LameDucks.pdf?dl=0
+[LameDucks]: https://www.dropbox.com/s/h3e10w6hzu789u9/FivaNedregard.pdf?dl=0
 [GroupIdentities]: https://www.dropbox.com/s/vdb1qdehluvpkza/GroupIdentities.pdf?dl=0
 
 [Frafall]: https://oda.oslomet.no/oda-xmlui/handle/20.500.12199/3013
