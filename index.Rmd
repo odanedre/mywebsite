@@ -29,7 +29,7 @@ knitr::include_graphics("profile.png")
   
   You can find my CV [$\color{darkdarkblue}{\text{here}}$][CV], my Google Scholar profile [$\color{darkdarkblue}{\text{here}}$][GScholar], and read more about my research [$\color{darkdarkblue}{\text{here}}$](research.html)
 
-I am also working on providing an overview of useful resources for students and researchers interesting in starting independent research using text-as-data (see [$\color{darkdarkblue}{\text{here}}$](nlp.html)). As of now, the list is mainly targeted to a Norwegian audience.
+I am also working on providing an overview of useful resources for students and researchers interested in doing independent research using text-as-data (see [$\color{darkdarkblue}{\text{here}}$](nlp.html)). As of now, the list is mainly targeted to a Norwegian audience.
 
   Supervisors: Prof. [Jon Fiva] and Prof. [Benny Geys]. 
   
