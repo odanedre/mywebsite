@@ -1,0 +1,46 @@
+---
+title: "NLP"
+description: |
+
+---
+
+*This page lists some useful resources for students and researchers interested in text-as-data*
+
+#### **Corpus**
+
+**[Norwegian Colossal Corpus][NCC]**
+
+- Collection of multiple Norwegian corpuses that are suitable for training large language models or conducting independent research. The corpus contains government reports, *Stortingsforhandlingene*, *Evalueringsrapporter*, laws and *NOUs*, online newspapers, Wikipedia, and out-of-copyrights books from the Norwegian National Library. 
+
+
+**Norwegian Parliamentary Debates 1981 -- 2021**, *Coming soon*
+
+- All Parliamentary debates from the Norwegian Parliament (Storting) in the period 1981 -- 2021. The data also contains info on committee membership, language, and other metadata. Can be merged with [Fiva and Smith, 2022][fivasmith] for comprehensive background data on national politicians. Parliamentary speeches from 1994 -- 2021 can be found in the replication package for *['How Does Party Discipline Affect Legislative Behavior?’, Quarterly Journal of Political Science, 2024][lameducks]*
+
+
+**[Norwegian NLP resources][nor_nlp]**
+
+List of useful Norwegian NLP resources, which covers both data/corpus and methods that supports NLP in Norwegian.
+
+
+-------------
+
+#### **Methods**
+
+**[Intro to Quanteda][quanteda]**
+
+- Well-documented and intuitive introduction to quantitative text analysis in R using the Quanteda package
+
+
+[NCC]: https://github.com/NbAiLab/notram/blob/master/guides/corpus_description.md
+[fivasmith]: https://www.jon.fiva.no/data.htm
+[quanteda]: https://tutorials.quanteda.io/
+[lameducks]: https://www.jon.fiva.no/data/Fiva-Nedregard-QJPS-Replication.zip
+[nor_nlp]: https://github.com/web64/norwegian-nlp-resources
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```

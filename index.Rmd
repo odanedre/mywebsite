@@ -28,7 +28,9 @@ knitr::include_graphics("profile.png")
   I have a Master's degree in Comparative Economics and Policy from University College London. My undergraduate studies cover economics, finance, business, and area and language studies.  
   
   You can find my CV [$\color{darkdarkblue}{\text{here}}$][CV], my Google Scholar profile [$\color{darkdarkblue}{\text{here}}$][GScholar], and read more about my research [$\color{darkdarkblue}{\text{here}}$](research.html)
-   
+
+I am also working on providing an overview of useful resources for students and researchers interesting in starting independent research using text-as-data (see [$\color{darkdarkblue}{\text{here}}$](nlp.html)). As of now, the list is mainly targeted to a Norwegian audience.
+
   Supervisors: Prof. [Jon Fiva] and Prof. [Benny Geys]. 
   
    Feel free to contact me at [odanedregard@gmail.com][email]
