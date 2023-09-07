@@ -34,7 +34,7 @@ description: |
 
 **[Text Algorithms in Economics (Ash and Hansen, 2023)][ash_hansen]**
 
-- Excellent overview of methods used to study text in economics
+- Excellent overview of text algorithms in economics
 
 
 **[Text as Data (Gentzkow, Kelly, and Taddy, 2019)][GKT]**
