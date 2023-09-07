@@ -31,6 +31,16 @@ description: |
 
 - Well-documented and intuitive introduction to quantitative text analysis in R using the Quanteda package
 
+
+**[Text Algorithms in Economics (Ash and Hansen, 2023)][ash_hansen]**
+
+- Excellent overview of methods used to study text in economics
+
+
+**[Text as Data (Gentzkow, Kelly, and Taddy, 2019)][GKT]**
+
+- One of the classic overviews of text-as-data in economic research
+
 -------------
 
 #### **Other useful resources**
@@ -45,6 +55,8 @@ description: |
 [lameducks]: https://www.jon.fiva.no/data/Fiva-Nedregard-QJPS-Replication.zip
 [nor_nlp]: https://github.com/web64/norwegian-nlp-resources
 [oslobergentagger]: https://tekstlab.uio.no/obt-ny/
+[GKT]: https://web.stanford.edu/~gentzkow/research/text-as-data.pdf
+[ash_hansen]: https://sekhansen.github.io/pdf_files/text_algos_econ.pdf
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
