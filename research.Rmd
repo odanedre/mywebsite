@@ -39,6 +39,8 @@ _Norwegian Legislative Debates 1945--2022_
 
 ### Media
 
+["Snakker mer om næringer de eier aksjer i"][aksjer], Dagens Næringsliv (2023)
+
 ["Hyttepåske for hvem?"][hyttepaaske], NRK (2021)
 
 ["Må det en krise til før politikerne våkner?"][krise], Aftenposten (2020)
@@ -46,6 +48,8 @@ _Norwegian Legislative Debates 1945--2022_
 ["Amerikanske tilstander"][amerikanske_tilstander], Dagsavisen (2019)
 
 ["Faglig interesserte studenter fullfører oftere utdanningen"][faglig_interessert], forskning.no (2018)
+
+[aksjer]: https://www.dn.no/innlegg/politikk/investeringer/aksjer/snakker-mer-om-naringer-de-eier-aksjer-i/2-1-1519931
 
 [SpeechIsSilver]: https://www.dropbox.com/s/7gq0t8xe68gbqlo/SpeechIsSilver.pdf?dl=0
 
