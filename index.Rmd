@@ -23,15 +23,12 @@ knitr::include_graphics("profile.png")
   
   I obtained my PhD in Economics from BI Norwegian Business School. In my dissertation, I used Natural Language Processing to study the behaviour of political elites, with a focus on how political parties are functioning as intermediaries between voters and politicians. At its core, my research touches on the underlying drivers and consequences of political polarization, populism, and (mis)representation. Two years of my PhD were spent at Harvard University as a Visiting Fellow at the Department of Government.
   
-  I have a Master's degree in Comparative Economics and Policy from University College London. My undergraduate studies cover economics, finance, business, and area and language studies.  
   
   You can find my CV [$\color{darkdarkblue}{\text{here}}$][CV], my Google Scholar profile [$\color{darkdarkblue}{\text{here}}$][GScholar], and read more about my research [$\color{darkdarkblue}{\text{here}}$](research.html)
 
 I am also working on providing an overview of useful resources for students and researchers interested in doing independent research using text-as-data (see [$\color{darkdarkblue}{\text{here}}$](nlp.html)). As of now, the list is mainly targeted to a Norwegian audience.
 
-  Supervisors: Prof. [Jon Fiva] and Prof. [Benny Geys]. 
-  
-   Feel free to contact me at [oda.nedregard@sciencespo.fr][email]
+ Feel free to contact me at [oda.nedregard@sciencespo.fr][email]
   
  
   [`r fa("twitter", fill = "steelblue")`](https://twitter.com/NedregardOda)
@@ -44,11 +41,7 @@ I am also working on providing an overview of useful resources for students and 
 
   [GScholar]: https://scholar.google.com/citations?user=7HrD6BgAAAAJ
   
-  [Jon Fiva]: https://www.jon.fiva.no/
  
-  [Benny Geys]: https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/
-   
-  
 :::
 
 
