@@ -49,6 +49,11 @@ description: |
 
 - Morphological and syntactic tagger for Norwegian. Useful for identifying grammatical morphemes and Part-Of-Speech tagging
 
+**[Friends Don't Let Friends Make Bad Graphs][friends_graphs]**
+
+- Some data visualization pitfalls to avoid
+
+
 [NCC]: https://github.com/NbAiLab/notram/blob/master/guides/corpus_description.md
 [fivasmith]: https://www.jon.fiva.no/data.htm
 [quanteda]: https://tutorials.quanteda.io/
@@ -57,6 +62,7 @@ description: |
 [oslobergentagger]: https://tekstlab.uio.no/obt-ny/
 [GKT]: https://web.stanford.edu/~gentzkow/research/text-as-data.pdf
 [ash_hansen]: https://sekhansen.github.io/pdf_files/text_algos_econ.pdf
+[friends_graphs]: https://github.com/cxli233/FriendsDontLetFriends
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
