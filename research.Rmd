@@ -18,10 +18,10 @@ _Fueling politics: Political ideology, election dynamics, and licensing practice
 _Legislative party groups and party cohesion (book chapter)_  
 &nbsp; with Martin Søyland
 
-_Norwegian Legislative Debates 1945--2022_  
+_Norwegian Parliamentary Debates 1945--2021_  
 &nbsp; with Jon Fiva an Henning Øien
 
-<font size="1"> COMING SOON: Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2022, with metadata on committee membership, MP characteristics, etc. </font> 
+<font size="1"> COMING SOON: Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2021 </font> 
 
 
 _Speech is Silver, Silence is Gold: Trade-offs between local and collective representation_
