@@ -24,26 +24,12 @@ _Norwegian Parliamentary Debates 1945--2021_
 <font size="1"> COMING SOON: Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2021 </font> 
 
 
-_Speech is Silver, Silence is Gold: Trade-offs between local and collective representation_
-&nbsp;
-
-<font size="1"> How does strong party discipline affect MPs’ willingness to represent local interests
-during times of distress? This paper uses parliamentary speeches from Norway
-together with unique data on parliamentary attendance and politicians’ travels to
-study how local economic hardship, proxied by unemployment, shapes legislators’
-representational efforts in the national parliament. Contrary to what one would
-expect, I find that MPs deliver significantly fewer speeches and speak less about
-unemployment during local economic downturns. Using word embeddings together
-with recently developed methods to identify choices in high-dimensional data, I
-show that when MPs do speak about unemployment during times of distress, they
-deviate less from the party line. Deviations are favored by local voters but penalized
-financially by the party. These results demonstrate how it can be rational for
-party elites in well-functioning democracies to restrict MPs from representing subnational
-interests because they want to prevent deviations from the party line from
-compromising the party brand. </font> 
-
 
 ### Working papers
+
+[_Staying in Line or Straying for Votes: Party Discipline and Dyadic Representation_][StayingInLine] (2024)  
+
+<font size="1"> How does strong party discipline affect legislators' responsiveness to local concerns? In list-based proportional representation systems, the election of candidates depends largely on their position on the ballot. This gives parties strong tools to discipline their elected officials, which can distort the link between the constituency and the representative. I test this hypothesis by studying speech allocation between legislators with heterogeneous incentives to deviate from the party line during local economic downturns in the party-centered environment of Norway. I find that only representatives with comparatively weak incentives to deviate from the party line are allowed to represent their districts during local economic downturns. Deviations are rewarded by local voters but penalized financially by the party, which reduces transfers to deviating MPs' party organizations. This demonstrates how it can be rational for party elites to restrict MPs from representing subnational interests because they want to prevent deviations from the party line from compromising the party brand.</font> 
 
 
 [_Group Identities and Parliamentary Debates_][GroupIdentities] (2023)  
@@ -73,6 +59,8 @@ compromising the party brand. </font>
 [aksjer]: https://www.dn.no/innlegg/politikk/investeringer/aksjer/snakker-mer-om-naringer-de-eier-aksjer-i/2-1-1519931
 
 [SpeechIsSilver]: https://www.dropbox.com/s/7gq0t8xe68gbqlo/SpeechIsSilver.pdf?dl=0
+
+[StayingInLine]: https://www.dropbox.com/scl/fi/3dxcb62i2mksosmnybidz/StayingInLine_Nedregard.pdf?rlkey=eg7vnlmgv7f4zv6yw1xgn8wud&dl=0
 
 [LameDucks]: https://www.dropbox.com/s/h3e10w6hzu789u9/FivaNedregard.pdf?dl=0
 [GroupIdentities]: https://www.dropbox.com/scl/fi/junj6598mbprpn6rsfwhc/FNO.pdf?rlkey=vvqi4rgeeocf7wvamnkkmgs8w&dl=0
