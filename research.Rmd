@@ -21,7 +21,7 @@ _Legislative party groups and party cohesion (book chapter)_
 _Norwegian Parliamentary Debates 1945--2021_  
 &nbsp; with Jon Fiva an Henning Øien
 
-<font size="1"> COMING SOON: Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2021 </font> 
+<font size="1"> COMING SOON: Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2021. We also include metadata on legislators' committee membership, birthyear, gender, rank, and speaker status. </font> 
 
 
 
@@ -60,7 +60,7 @@ _Norwegian Parliamentary Debates 1945--2021_
 
 [SpeechIsSilver]: https://www.dropbox.com/s/7gq0t8xe68gbqlo/SpeechIsSilver.pdf?dl=0
 
-[StayingInLine]: https://www.dropbox.com/scl/fi/3dxcb62i2mksosmnybidz/StayingInLine_Nedregard.pdf?rlkey=eg7vnlmgv7f4zv6yw1xgn8wud&dl=0
+[StayingInLine]: https://www.dropbox.com/scl/fi/jctiwojp6n9s76h86dc0k/StayingInLine_Nedregard.pdf?rlkey=kcew6w2es2e9jp0tj2t7o4t72&dl=0
 
 [LameDucks]: https://www.dropbox.com/s/h3e10w6hzu789u9/FivaNedregard.pdf?dl=0
 [GroupIdentities]: https://www.dropbox.com/scl/fi/junj6598mbprpn6rsfwhc/FNO.pdf?rlkey=vvqi4rgeeocf7wvamnkkmgs8w&dl=0
