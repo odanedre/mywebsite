@@ -13,7 +13,7 @@ _The effect of legislative misalignment on representation of constituency intere
 
 _The causal effect of trust in government on green policymaking_  
 
-_Fueling politics: Political ideology, election dynamics, and licensing practices_  
+_Fueling politics: Political ideology, election dynamics, and oil search licenses_
 
 _Legislative party groups and party cohesion (book chapter)_  
 &nbsp; with Martin Søyland
@@ -21,7 +21,7 @@ _Legislative party groups and party cohesion (book chapter)_
 _Norwegian Parliamentary Debates 1945--2021_  
 &nbsp; with Jon Fiva an Henning Øien
 
-<font size="1"> COMING SOON: Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2021. We also include metadata on legislators' committee membership, birthyear, gender, rank, and speaker status. </font> 
+<font size="1"> COMING SOON: Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2021. We also include metadata on legislators' committee membership, speaker status (minister, elected, deputy...), and descriptive characteristics. </font> 
 
 
 
@@ -37,8 +37,8 @@ _Norwegian Parliamentary Debates 1945--2021_
 
 ### Publications
 
-[_How Does Party Discipline Affect Legislative Behavior? Evidence from Within-Term Variation in Lame-Duck Status_][LameDucks] (2024)  
-&nbsp; with Jon Fiva, **Quarterly Journal of Political Science** [Forthcoming]
+[_How Does Party Discipline Affect Legislative Behavior? Evidence from Within-Term Variation in Lame-Duck Status_][LameDucks]
+&nbsp; with Jon Fiva, **Quarterly Journal of Political Science** (2024)
 
 [Frøyland, K., Nordberg, T. H., & Nedregård, O. (2018). Nyere kunnskap om inkluderende arbeidsliv (IA)][InkluderendeArbeidsliv]
 
@@ -62,7 +62,7 @@ _Norwegian Parliamentary Debates 1945--2021_
 
 [StayingInLine]: https://www.dropbox.com/scl/fi/jctiwojp6n9s76h86dc0k/StayingInLine_Nedregard.pdf?rlkey=kcew6w2es2e9jp0tj2t7o4t72&dl=0
 
-[LameDucks]: https://www.dropbox.com/s/h3e10w6hzu789u9/FivaNedregard.pdf?dl=0
+[LameDucks]: https://www.nowpublishers.com/article/Details/QJPS-22094
 [GroupIdentities]: https://www.dropbox.com/scl/fi/junj6598mbprpn6rsfwhc/FNO.pdf?rlkey=vvqi4rgeeocf7wvamnkkmgs8w&dl=0
 
 [Frafall]: https://oda.oslomet.no/oda-xmlui/handle/20.500.12199/3013
