@@ -17,9 +17,6 @@ _Chilling in the Shade: Climate change resilience and climate change beliefs_
 
 _Fueling politics: Political ideology, election dynamics, and oil search licenses_
 
-_Legislative party groups and party cohesion (book chapter, Oxford Handbook)_  
-&nbsp; with Martin Søyland
-
 _Norwegian Parliamentary Debates 1945--2021_  
 &nbsp; with Jon Fiva an Henning Øien
 
@@ -38,6 +35,9 @@ _Norwegian Parliamentary Debates 1945--2021_
 &nbsp; with Jon Fiva and Henning Øien, RR, **Journal of Politics**
 
 ### Publications
+
+_Legislative party groups and party cohesion (2024), book chapter, Oxford Handbook_  
+&nbsp; with Martin Søyland
 
 [_How Does Party Discipline Affect Legislative Behavior? Evidence from Within-Term Variation in Lame-Duck Status_][LameDucks]
 &nbsp; with Jon Fiva, **Quarterly Journal of Political Science** (2024)
