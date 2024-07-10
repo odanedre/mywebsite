@@ -11,9 +11,13 @@ _The effect of legislative misalignment on representation of constituency intere
 
  <font size="1"> We study how the correction of imperfect information in the legislature affects the representation of constituency interests. While belief updating ideally is expected to result in re-optimization by market actors, the effect on elite behaviour is less clear. This is because MPs pay a reputation cost when altering their policy stands, which could result in them abstaining from re-aligning with their districts when they receive new information about their constituencies’ preferences. Using a difference-in-differences setup and the Brexit referendum as a natural experiment that educates MPs about their constituencies’ leaning, we find that MPs who unexpectedly learn that they are misaligned with their districts (receive a negative information shock) avoid issues on which they are misaligned, relative to aligned MPs. Instead, they use more populist rhetoric, and push party ideology to obtain re-alignment. Our results show how legislators use populism and polarization as tools to avoid drawing attention to issues where there is a mismatch between voters and the legislature. </font> 
 
-_The causal effect of trust in government on green policymaking_  
 
 _Chilling in the Shade: Climate change resilience and climate change beliefs_  
+
+ <font size="1"> 	A large literature shows that risk perceptions are important to understand individuals' attitude formation. How does resilience to climate change affect citizens' climate attitudes? I show that the ability to address the negative consequences of climate change, and not vulnerability to climate change, is important to understand climate change perceptions. Citizens in developed western economies that have a high degree of climate change resilience are less likely to see humans as the main driver of climate change, and are less likely to call for strengthened public and private action to mitigate emissions. These findings are important to understand the lack of climate ambition by sheading light on how strengthened resilience can compensate for vulnerability but at the risk of compromising future support for green policymaking. </font> 
+	
+	
+_The causal effect of trust in government on green policymaking_  
 
 _Fueling politics: Political ideology, election dynamics, and oil search licenses_
 
