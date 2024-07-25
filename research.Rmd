@@ -15,14 +15,15 @@ _The causal effect of trust in government on green policymaking_
 
 _Fueling politics: Political ideology, election dynamics, and oil search licenses_
 
-_Norwegian Parliamentary Debates 1945--2021_  
-&nbsp; with Jon Fiva an Henning Øien
-
-<font size="1"> COMING SOON: Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2021. We also include metadata on legislators' committee membership, speaker status (minister, elected, deputy...), and descriptive characteristics. </font> 
-
 
 
 ### Working papers
+
+_Norwegian Parliamentary Debates 1945--2021_  
+&nbsp; with Jon Fiva an Henning Øien, RR, **Nature**
+
+<font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2021. We also include metadata on legislators' committee membership, speaker status (minister, elected, deputy...), and descriptive characteristics. </font> 
+
 
 _Staying in Line or Straying for Votes: Party Discipline and Dyadic Representation_ (2024)  
 
