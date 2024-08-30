@@ -20,9 +20,9 @@ _Fueling politics: Political ideology, election dynamics, and oil search license
 ### Working papers
 
 _Norwegian Parliamentary Debates 1945--2024_  
-&nbsp; with Jon Fiva an Henning Øien, Accepted, **Nature Scientific Data**
+&nbsp; with Jon Fiva and Henning Øien, Accepted, **Nature Scientific Data**
 
-<font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include metadata on legislators' committee membership, speaker status (minister, elected, deputy...), and descriptive characteristics. </font> 
+<font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include metadata on legislators' committee membership, district, speaker status (minister, elected, deputy...), and descriptive characteristics. </font> 
 
 
 [_Staying in Line or Straying for Votes: Party Discipline and Dyadic Representation_][StayingInLine1] (2024)  
