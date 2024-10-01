@@ -4,6 +4,43 @@ description: |
 
 ---
 
+
+### Publications
+
+
+_Norwegian Parliamentary Debates Dataset 1945--2024_  
+&nbsp; with Jon Fiva and Henning Øien, Conditionally accepted, **Nature Scientific Data**
+
+<font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include speaker and speech meta data (e.g., committee membership, district, minister, elected, deputy...). </font> 
+
+_Legislative party groups and party cohesion, book chapter (2024)_  
+&nbsp; with Martin Søyland, **Oxford Handbook of Norwegian Politics**
+
+[_How Does Party Discipline Affect Legislative Behavior? Evidence from Within-Term Variation in Lame-Duck Status_][LameDucks]
+&nbsp; with Jon Fiva, **Quarterly Journal of Political Science** (2024)
+
+[Frøyland, K., Nordberg, T. H., & Nedregård, O. (2018). Nyere kunnskap om inkluderende arbeidsliv (IA)][InkluderendeArbeidsliv]
+
+[Nedregård, O., & Abrahamsen, B. (2018). Frafall fra profesjonsutdanningene ved OsloMet. ISO 690][Frafall]
+
+
+### Working papers
+
+
+	
+[_Group Identities and Parliamentary Debates_][GroupIdentities] (2024)  
+&nbsp; with Jon Fiva and Henning Øien, 3rd round RR, **Journal of Politics**
+
+[_Staying in Line or Straying for Votes: Party Discipline and Dyadic Representation_][StayingInLine1] (2024)  
+
+<font size="1"> How does strong party discipline affect legislators' responsiveness to local concerns? In list-based proportional representation systems, the election of candidates depends largely on their position on the ballot. This gives parties strong tools to discipline their elected officials, which can distort the link between the constituency and the representative. I test this hypothesis by studying speech allocation between legislators with heterogeneous incentives to deviate from the party line during local economic downturns in the party-centered environment of Norway. I find that only representatives with comparatively strong incentives to align with party elites at the expense of local voters speak more about unemployment when their ditricts are experiencing during local economic downturns. Deviations from the party line are rewarded by local voters but penalized by the party, which tightens floor access for deviating MPs. This demonstrates how strong parties in PR can obstruct the constituency-representative link in the pursuit of maintaining a coherent party brand. </font> 
+
+
+_Chilling in the Shade: Climate change resilience and climate change beliefs_  (2024)
+
+ <font size="1"> 	A large literature shows that risk perceptions are important to understand individuals' attitude formation. How does resilience to climate change affect citizens' climate attitudes? I show that the ability to address the negative consequences of climate change, and not vulnerability to climate change, is important to understand climate change perceptions. Citizens in developed Western economies with a high degree of climate change resilience are less likely to see humans as the main driver of climate change and are less likely to call for strengthened public and private action to mitigate emissions. These findings are important to understand the lack of climate ambition by shedding light on how strengthened resilience can compensate for vulnerability but at the risk of compromising future support for green policymaking. </font> 
+	
+	
 ### Work in progress
 
 _The effect of legislative misalignment on representation of constituency interests_  
@@ -21,41 +58,10 @@ _The causal effect of trust in government on green policymaking_
 _The female vote and PR adoption_  
 &nbsp; with Mona Morgan-Collins
 
-_Minority strategies in the UK Parliament_  
+_Minority Strategies and Political Selection_  
 &nbsp; with Apurav Yash Bhatiya and Sarah Schneider
 
-### Working papers
 
-_Norwegian Parliamentary Debates 1945--2024_  
-&nbsp; with Jon Fiva and Henning Øien, Accepted, **Nature Scientific Data**
-
-<font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include metadata on legislators' committee membership, district, speaker status (minister, elected, deputy...), and descriptive characteristics. </font> 
-
-
-[_Staying in Line or Straying for Votes: Party Discipline and Dyadic Representation_][StayingInLine1] (2024)  
-
-<font size="1"> How does strong party discipline affect legislators' responsiveness to local concerns? In list-based proportional representation systems, the election of candidates depends largely on their position on the ballot. This gives parties strong tools to discipline their elected officials, which can distort the link between the constituency and the representative. I test this hypothesis by studying speech allocation between legislators with heterogeneous incentives to deviate from the party line during local economic downturns in the party-centered environment of Norway. I find that only representatives with comparatively strong incentives to align with party elites at the expense of local voters speak more about unemployment when their ditricts are experiencing during local economic downturns. Deviations from the party line are rewarded by local voters but penalized by the party, which tightens floor access for deviating MPs. This demonstrates how strong parties in PR can obstruct the constituency-representative link in the pursuit of maintaining a coherent party brand. </font> 
-
-
-_Chilling in the Shade: Climate change resilience and climate change beliefs_  (2024)
-
- <font size="1"> 	A large literature shows that risk perceptions are important to understand individuals' attitude formation. How does resilience to climate change affect citizens' climate attitudes? I show that the ability to address the negative consequences of climate change, and not vulnerability to climate change, is important to understand climate change perceptions. Citizens in developed Western economies with a high degree of climate change resilience are less likely to see humans as the main driver of climate change and are less likely to call for strengthened public and private action to mitigate emissions. These findings are important to understand the lack of climate ambition by shedding light on how strengthened resilience can compensate for vulnerability but at the risk of compromising future support for green policymaking. </font> 
-	
-	
-[_Group Identities and Parliamentary Debates_][GroupIdentities] (2023)  
-&nbsp; with Jon Fiva and Henning Øien, RR, **Journal of Politics**
-
-### Publications
-
-_Legislative party groups and party cohesion, book chapter (2024)_  
-&nbsp; with Martin Søyland, **Oxford Handbook of Norwegian Politics**
-
-[_How Does Party Discipline Affect Legislative Behavior? Evidence from Within-Term Variation in Lame-Duck Status_][LameDucks]
-&nbsp; with Jon Fiva, **Quarterly Journal of Political Science** (2024)
-
-[Frøyland, K., Nordberg, T. H., & Nedregård, O. (2018). Nyere kunnskap om inkluderende arbeidsliv (IA)][InkluderendeArbeidsliv]
-
-[Nedregård, O., & Abrahamsen, B. (2018). Frafall fra profesjonsutdanningene ved OsloMet. ISO 690][Frafall]
 
 ### Media
 
