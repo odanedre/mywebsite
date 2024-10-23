@@ -9,7 +9,7 @@ description: |
 
 
 _Norwegian Parliamentary Debates Dataset 1945--2024_  
-&nbsp; with Jon Fiva and Henning Øien, Conditionally accepted, **Nature Scientific Data**
+&nbsp; with Jon Fiva and Henning Øien, Accepted, **Nature Scientific Data** Draft and data available upon request
 
 <font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include speaker and speech meta data (e.g., committee membership, district, minister, elected, deputy...). </font> 
 
