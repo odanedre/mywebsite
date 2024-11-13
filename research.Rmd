@@ -9,7 +9,7 @@ description: |
 
 
 _Norwegian Parliamentary Debates Dataset 1945--2024_  
-&nbsp; with Jon Fiva and Henning Øien, Accepted, **Nature Scientific Data** [[DATA]][NPD]
+&nbsp; with Jon Fiva and Henning Øien, Accepted, **Nature Scientific Data** (2024) [[DATA]][NPD]
 
 <font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include speaker and speech meta data (e.g., committee membership, district, minister, elected, deputy...). </font> 
 
@@ -77,7 +77,7 @@ _Minority Strategies and Political Selection_
 
 [NPD]: https://www.dropbox.com/scl/fi/nibtll2du282lx1zk982m/NPD_v1.zip?rlkey=lrjlw62mytavv4hqndr2v9bqe&st=twatcjx6&dl=0
 
-[StayingInLine1]: https://www.dropbox.com/scl/fi/bwl132vgqkhtv94jvb7ac/StayingInLine_Nedregard.pdf?rlkey=b6rb523y1qaa0lo56twuqusk7&dl=0
+[StayingInLine1]: https://www.dropbox.com/scl/fi/sbwwztvzq5ybebgb515ji/StayingInLine.pdf?rlkey=od78cg3rsvz1i3f249za1zz39&st=mbmb83yu&dl=0
 
 [ChillingInTheShade]: https://www.dropbox.com/scl/fi/yj2dok5qm0ntkfuv67c3g/ChillingInTheShade.pdf?rlkey=t6qceyv59xm3nymnbfdq051y6&dl=0
 
