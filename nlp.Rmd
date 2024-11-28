@@ -13,9 +13,9 @@ description: |
 - Collection of multiple Norwegian corpuses that are suitable for training large language models or conducting independent research. The corpus contains government reports, *Stortingsforhandlingene*, *Evalueringsrapporter*, laws and *NOUs*, online newspapers, Wikipedia, and out-of-copyrights books from the Norwegian National Library. 
 
 
-**Norwegian Parliamentary Debates Dataset 1945--2024**
+**[Norwegian Parliamentary Debates Dataset 1945--2024][NPD]**
 
-&nbsp; with Jon Fiva and Henning Øien, Accepted, **Nature Scientific Data** (2024) [[DATA]][NPD]
+&nbsp; with Jon Fiva and Henning Øien, Accepted, **Nature Scientific Data** (2024)
 
 <font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include speaker and speech meta data (e.g., committee membership, district, minister, elected, deputy...). Can be merged with [Fiva and Smith, 2022][fivasmith] for comprehensive background data on national-level politicians.</font>
 
