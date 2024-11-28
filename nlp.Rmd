@@ -13,9 +13,11 @@ description: |
 - Collection of multiple Norwegian corpuses that are suitable for training large language models or conducting independent research. The corpus contains government reports, *Stortingsforhandlingene*, *Evalueringsrapporter*, laws and *NOUs*, online newspapers, Wikipedia, and out-of-copyrights books from the Norwegian National Library. 
 
 
-**Norwegian Parliamentary Debates 1981 -- 2021**, *Coming soon*
+**Norwegian Parliamentary Debates Dataset 1945--2024**
 
-- All Parliamentary debates from the Norwegian Parliament (Storting) in the period 1981 -- 2021. The data also contains info on committee membership, language, and other metadata. Can be merged with [Fiva and Smith, 2022][fivasmith] for comprehensive background data on national-level politicians. Parliamentary speeches from 1994 -- 2021 can be found in the replication package for *'How Does Party Discipline Affect Legislative Behavior?’, Quarterly Journal of Political Science, 2024*, which can be downloaded [here][lameducks].
+&nbsp; with Jon Fiva and Henning Øien, Accepted, **Nature Scientific Data** (2024) [[DATA]][NPD]
+
+<font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include speaker and speech meta data (e.g., committee membership, district, minister, elected, deputy...). Can be merged with [Fiva and Smith, 2022][fivasmith] for comprehensive background data on national-level politicians.</font>
 
 
 **[Norwegian NLP resources][nor_nlp]**
@@ -41,6 +43,10 @@ description: |
 
 - One of the classic overviews of text-as-data in economic research
 
+**[Multilanguage Word Embeddings for Social Scientists (Wirshing et al., 2024)][MultilanguageWB]**
+
+- Multi-language "a la carte" word embeddings (also works in Norwegian)
+
 -------------
 
 #### **Other useful resources**
@@ -54,6 +60,7 @@ description: |
 - Some data visualization pitfalls to avoid
 
 
+
 [NCC]: https://github.com/NbAiLab/notram/blob/master/guides/corpus_description.md
 [fivasmith]: https://www.jon.fiva.no/data.htm
 [quanteda]: https://tutorials.quanteda.io/
@@ -63,6 +70,8 @@ description: |
 [GKT]: https://web.stanford.edu/~gentzkow/research/text-as-data.pdf
 [ash_hansen]: https://sekhansen.github.io/pdf_files/text_algos_econ.pdf
 [friends_graphs]: https://github.com/cxli233/FriendsDontLetFriends
+[NPD]: https://www.dropbox.com/scl/fi/nibtll2du282lx1zk982m/NPD_v1.zip?rlkey=lrjlw62mytavv4hqndr2v9bqe&st=twatcjx6&dl=0
+[MultilanguageWB]: https://arthurspirling.org/documents/alce.pdf
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
