@@ -8,12 +8,12 @@ description: |
 ### Publications
 
 
-_Norwegian Parliamentary Debates Dataset 1945--2024_  
-&nbsp; with Jon Fiva and Henning Øien, Accepted, **Nature Scientific Data** (2025) [[DATA]][NPD]
+[_Norwegian Parliamentary Debates Dataset 1945--2024_][NPD_paper]  
+&nbsp; with Jon Fiva and Henning Øien, **Nature Scientific Data** (2025) [[DATA]][NPD]
 
 <font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include speaker and speech meta data (e.g., committee membership, district, minister, elected, deputy...). </font> 
 
-_Legislative party groups and party cohesion, book chapter (2024)_  
+_Legislative party groups and party cohesion, book chapter (2025)_  
 &nbsp; with Martin Søyland, **Oxford Handbook of Norwegian Politics**
 
 [_How Does Party Discipline Affect Legislative Behavior? Evidence from Within-Term Variation in Lame-Duck Status_][LameDucks]
@@ -29,7 +29,7 @@ _Legislative party groups and party cohesion, book chapter (2024)_
 
 	
 [_Group Identities and Parliamentary Debates_][GroupIdentities] (2024)  
-&nbsp; with Jon Fiva and Henning Øien, 3rd round RR, **Journal of Politics**
+&nbsp; with Jon Fiva and Henning Øien, 4th round RR, **Journal of Politics**
 
 [_Staying in Line or Straying for Votes: Party Discipline and Dyadic Representation_][StayingInLine1] (2024)  
 
@@ -82,6 +82,8 @@ _Minority Strategies and Political Representation_
 ["Amerikanske tilstander"][amerikanske_tilstander], Dagsavisen (2019)
 
 ["Faglig interesserte studenter fullfører oftere utdanningen"][faglig_interessert], forskning.no (2018)
+
+[NPD_paper]: https://rdcu.be/d5o0G
 
 [NPD]: https://www.dropbox.com/scl/fi/nibtll2du282lx1zk982m/NPD_v1.zip?rlkey=lrjlw62mytavv4hqndr2v9bqe&st=twatcjx6&dl=0
 
