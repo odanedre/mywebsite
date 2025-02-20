@@ -70,6 +70,8 @@ _Minority Strategies and Political Representation_
 
 ### Media
 
+["Unge forskere"][unge_forskere], Khrono (2025) 
+
 ["Snakker mer om næringer de eier aksjer i"][aksjer], Dagens Næringsliv (2023)
 
 ["Hyttepåske for hvem?"][hyttepaaske], NRK (2021)
@@ -79,6 +81,8 @@ _Minority Strategies and Political Representation_
 ["Amerikanske tilstander"][amerikanske_tilstander], Dagsavisen (2019)
 
 ["Faglig interesserte studenter fullfører oftere utdanningen"][faglig_interessert], forskning.no (2018)
+
+[unge_forskere]: https://www.khrono.no/hun-er-postdoktor-ved-sciences-po-tjener-mindre-enn-som-stipendiat-i-norge/943938
 
 [NPD_paper]: https://rdcu.be/d5o0G
 
