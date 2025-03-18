@@ -70,6 +70,8 @@ _Minority Strategies and Political Representation_
 
 ### Media
 
+["Støres regjering er balansert på kjønn. Men hvor er distriktene og arbeiderklassen?"][arbeiderklasse_regjering], Dagens Næringsliv (2025)
+
 ["Unge forskere"][unge_forskere], Khrono (2025) 
 
 ["Snakker mer om næringer de eier aksjer i"][aksjer], Dagens Næringsliv (2023)
@@ -81,6 +83,8 @@ _Minority Strategies and Political Representation_
 ["Amerikanske tilstander"][amerikanske_tilstander], Dagsavisen (2019)
 
 ["Faglig interesserte studenter fullfører oftere utdanningen"][faglig_interessert], forskning.no (2018)
+
+[arbeiderklasse_regjering]: https://www.dn.no/innlegg/politikk/mangfold/forskning/god-kjonnsbalanse-men-hvor-er-distriktene-og-arbeiderklassen/2-1-1785596?zephr_sso_ott=lYArEf
 
 [unge_forskere]: https://www.khrono.no/hun-er-postdoktor-ved-sciences-po-tjener-mindre-enn-som-stipendiat-i-norge/943938
 
