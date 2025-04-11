@@ -38,7 +38,7 @@ I am also working on providing an overview of useful resources for students and 
 
   [email]: mailto:oda.nedregard@sciencespo.fr
 
-  [CV]: https://www.dropbox.com/scl/fi/iwehkkgvr11vf8uinojqw/cv_nedregard.pdf?rlkey=yphnyoqlkt2ve34wd3b1l3zj3&st=f4xm1t51&dl=0
+  [CV]: https://www.dropbox.com/scl/fi/iwehkkgvr11vf8uinojqw/cv_nedregard.pdf?rlkey=yphnyoqlkt2ve34wd3b1l3zj3&st=2qtr1xmy&dl=0
 
   [GScholar]: https://scholar.google.com/citations?user=7HrD6BgAAAAJ
   
