@@ -38,7 +38,7 @@ knitr::include_graphics("profile.png")
 
   [email]: mailto:oda.nedregard@sciencespo.fr
 
-  [CV]: https://www.dropbox.com/scl/fi/iwehkkgvr11vf8uinojqw/cv_nedregard.pdf?rlkey=yphnyoqlkt2ve34wd3b1l3zj3&st=612hl9qc&dl=0
+  [CV]: https://www.dropbox.com/scl/fi/walcm4xf5whyycyt4hdo5/cv_nedregard.pages?rlkey=w2vlaozrp3ka35y1hog2ehck1&st=4odwlm4f&dl=0
 
   [GScholar]: https://scholar.google.com/citations?user=7HrD6BgAAAAJ
   
