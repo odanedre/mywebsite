@@ -15,10 +15,10 @@ description: |
 
 <font size="1"> Data set with all Norwegian Parliamentary speeches in the period 1945 -- 2024. We also include speaker and speech meta data (e.g., committee membership, district, minister, elected, deputy...). </font> 
 
-_Legislative party groups and party cohesion, book chapter (2025)_  
-&nbsp; with Martin Søyland, **Oxford Handbook of Norwegian Politics**
+_Legislative party groups and party cohesion (book chapter)_  
+&nbsp; with Martin Søyland, **Oxford Handbook of Norwegian Politics** (2025)
 
-[_How Does Party Discipline Affect Legislative Behavior? Evidence from Within-Term Variation in Lame-Duck Status_][LameDucks]
+[_How Does Party Discipline Affect Legislative Behavior? Evidence from Within-Term Variation in Lame-Duck Status_][LameDucks]  
 &nbsp; with Jon Fiva, **Quarterly Journal of Political Science** (2024)
 
 [Frøyland, K., Nordberg, T. H., & Nedregård, O. (2018). Nyere kunnskap om inkluderende arbeidsliv (IA)][InkluderendeArbeidsliv]
