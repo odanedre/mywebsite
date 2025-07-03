@@ -8,7 +8,7 @@ description: |
 ### Publications
 
 [_Group Identities and Parliamentary Debates_][GroupIdentities] (2025)  
-&nbsp; with Jon Fiva and Henning Øien, Accepted, **Journal of Politics**
+&nbsp; with Jon Fiva and Henning Øien, Forthcoming, **Journal of Politics**
 
 [_Norwegian Parliamentary Debates Dataset 1945--2024_][NPD_paper]  
 &nbsp; with Jon Fiva and Henning Øien, **Nature Scientific Data** (2025) [[DATA]][NPD]
