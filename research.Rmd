@@ -28,15 +28,17 @@ _Legislative party groups and party cohesion (book chapter)_
 
 ### Working papers
 
+
+_The Sound of Silence: The effect of legislative misalignment on the representation of constituency interests_  (2025)
+&nbsp; with Vardges Levonyan
+
+ <font size="1"> How do elected representatives respond when they learn that they are misaligned with their constituencies? While existing research has documented various mechanisms promoting alignment between public opinion and legislative behavior, including electoral turnover, candidate self-selection, and elite influence on public opinion, less is known about how politicians handle misalignment. Previous studies suggest two primary responses: updating positions to match constituent preferences or discounting opposing views. We propose and investigate a third response: strategic issue avoidance. Using the 2016 Brexit referendum as an information treatment that creates within-issue, within-election period, within-MP variation in alignment, we study how MPs responded to sudden, measurable incongruence with their constituencies. We find that MPs who learn that they are misaligned with their districts avoid issues on which they are misaligned, relative to their aligned counterparts. When speaking about the misaligned issue, they avoid stance-taking on the issue. They also avoid mentioning their constituency. Our results show how misaligned MPs abstain from controversial issues to avoid drawing attention to topics where there is a mismatch between the legislature and the constituency. </font> 
+
+
 _Staying in Line or Straying for Votes: Party Discipline and Dyadic Representation_ (2025)  
 
 <font size="1"> How does strong party discipline shape legislators' responsiveness to local concerns? In list-based proportional representation systems, parties' control of ballot rankings creates strong incentives to align with party elites, which is postulated to distort the constituency-representative link. I develop a theory of cohesion under PR and test it in Norway -- a uniquely beneficial setting to study party discipline. Leveraging seat security to capture within-party, within-district variations in incentives to align with districts, I show that legislators who are more dependent on local voters to secure reelection deviate more from the party line during local distress, compared to safe MPs. Deviations are rewarded by constituents but penalized by voters in other districts, demonstrating how deviations can benefit the legislator but be costly to the party. This refines our understanding of cohesion under PR by showing how electoral incentives shape legislative behavior not only across electoral systems but also within them. </font> 
 
-
-_The effect of legislative misalignment on the representation of constituency interests_  (2025)
-&nbsp; with Vardges Levonyan
-
- <font size="1"> How do elected representatives respond when they learn that they are misaligned with their constituencies? While existing research has documented various mechanisms promoting alignment between public opinion and legislative behavior, including electoral turnover, candidate self-selection, and elite influence on public opinion, less is known about how politicians handle misalignment. Previous studies suggest two primary responses: updating positions to match constituent preferences or discounting opposing views. We propose and investigate a third response: strategic issue avoidance. Using the 2016 Brexit referendum as an information treatment that creates within-issue, within-election period, within-MP variation in alignment, we study how MPs responded to sudden, measurable incongruence with their constituencies. We find that MPs who learn that they are misaligned with their districts avoid issues on which they are misaligned, relative to their aligned counterparts. When speaking about the misaligned issue, they avoid stance-taking on the issue. They also avoid mentioning their constituency. Our results show how misaligned MPs abstain from controversial issues to avoid drawing attention to topics where there is a mismatch between the legislature and the constituency. </font> 
 
 
 _The female vote and PR adoption_  (2025)   
