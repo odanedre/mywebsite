@@ -16,19 +16,18 @@ knitr::include_graphics("profile.png")
 
 ```
 
-  Welcome to my website!
   
   
-Incoming Lecturer (Assistant Professor) in Economics at [$\color{darkdarkblue}{\text{King's College London}}$][KCL]'s Department of Political Economy. I am a postdoc (Bruno Latour Fellow) at Sciences Po's Department of Economics, where I study elite behavior and climate change politics. I also teach students about the political economy of climate change. 
-  
-  I obtained my PhD in Economics from BI Norwegian Business School. In my dissertation, I used Natural Language Processing to study the behavior of political elites, with a focus on how political parties are functioning as intermediaries between voters and politicians. At its core, my research concerns how political institutions shape the behavior of politicians and touches on the underlying drivers of elite polarization and (mis)representation. Two years of my PhD were spent at Harvard University as a Visiting Fellow at the Department of Government.
+I am a Lecturer (Assistant Professor) in Economics at [$\color{darkdarkblue}{\text{King's College London}}$][KCL]'s Department of Political Economy. My research examines the behavior of political elites, with a particular focus on elite strategies and patterns of representation. Much of my work uses text-as-data to investigate how political institutions shape politicians’ behavior and explores the underlying drivers of elite polarization and (mis)representation.
+
+Before joining KCL I was a postdoc (Bruno Latour Fellow) at Sciences Po's Department of Economics. I obtained my PhD in Economics from BI Norwegian Business School. Two years of my PhD were spent at Harvard University as a Visiting Fellow at the Department of Government.
   
  
   
   You can find my CV [$\color{darkdarkblue}{\text{here}}$][CV], my Google Scholar profile [$\color{darkdarkblue}{\text{here}}$][GScholar], and read more about my research [$\color{darkdarkblue}{\text{here}}$](research.html)
 
 
- Feel free to contact me at [oda.nedregard@sciencespo.fr][email]
+ Feel free to contact me at [oda.nedregard@kcl.ac.uk][email]
   
  
   [`r fa("cloud", fill = "steelblue")`](https://bsky.app/profile/nedregardoda.bsky.social)
@@ -36,7 +35,7 @@ Incoming Lecturer (Assistant Professor) in Economics at [$\color{darkdarkblue}{\
   [`r fa("envelope-open", fill = "steelblue")`][email]
   [`r fa("book", fill = "steelblue")`][GScholar]
 
-  [email]: mailto:oda.nedregard@sciencespo.fr
+  [email]: mailto:oda.nedregard@kcl.ac.uk
 
   [CV]: https://www.dropbox.com/scl/fi/5q1cu6foie224sazpv7ad/cv_nedregard.pdf?rlkey=2aswjgq3yky71xvblkk6vnil8&st=e7iwvc1x&dl=0
 
@@ -44,7 +43,7 @@ Incoming Lecturer (Assistant Professor) in Economics at [$\color{darkdarkblue}{\
   
  [LSE]: https://www.lse.ac.uk/european-institute/people/nedregard-oda
  
- [KCL]: https://www.kcl.ac.uk/political-economy
+ [KCL]: https://www.kcl.ac.uk/people/oda-nedregard
 :::
 
 
