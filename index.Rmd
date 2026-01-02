@@ -31,13 +31,13 @@ Before joining KCL I was a postdoc (Bruno Latour Fellow) at Sciences Po's Depart
   
  
   [`r fa("cloud", fill = "steelblue")`](https://bsky.app/profile/nedregardoda.bsky.social)
-  [`r fa("twitter", fill = "steelblue")`](https://twitter.com/NedregardOda)
+  [`r fa("twitter", fill = "steelblue")`](https://x.com/NedregardOda)
   [`r fa("envelope-open", fill = "steelblue")`][email]
   [`r fa("book", fill = "steelblue")`][GScholar]
 
   [email]: mailto:oda.nedregard@kcl.ac.uk
 
-  [CV]: https://www.dropbox.com/scl/fi/5q1cu6foie224sazpv7ad/cv_nedregard.pdf?rlkey=2aswjgq3yky71xvblkk6vnil8&st=e7iwvc1x&dl=0
+  [CV]: https://www.dropbox.com/scl/fi/5q1cu6foie224sazpv7ad/cv_nedregard.pdf?rlkey=2aswjgq3yky71xvblkk6vnil8&st=8d31hwoi&dl=0
 
   [GScholar]: https://scholar.google.com/citations?user=7HrD6BgAAAAJ
   
