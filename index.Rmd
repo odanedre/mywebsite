@@ -8,8 +8,6 @@ site: distill::distill_website
 library(fontawesome)
 ``` 
 
-:::float-image
-
 ```{r, out.width='250px', out.extra='style="float:left; padding:10px"', echo=FALSE}
 
 knitr::include_graphics("profile.png")
