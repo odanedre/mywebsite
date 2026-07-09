@@ -29,19 +29,21 @@ _Legislative party groups and party cohesion (book chapter)_
 ### Working papers
 
 
+
+_Gendered Voices in Climate Politics: Evidence from the UK Parliament (2026)_  
+
+ <font size="1">	Are female legislators more attentive to climate change than men? Despite evidence that female voters express greater concern for climate change and more frequently engage in pro-environmental behavior, it remains unclear whether these gender differences are mirrored in legislatures. Using a close-election regression discontinuity design on UK Parliamentary speeches, I provide the first causal evidence on the effect of electing a woman instead of a man on climate representation. Contrary to expectations based on gender differences in the electorate, I find that narrowly elected women dedicate a significantly smaller share of their term to climate topics than narrowly elected men. This suggests that, at least in the context of climate change, descriptive representation does not mechanically translate into substantive representation. </font> 
+
+
+
 _The Sound of Silence: The effect of legislative misalignment on the representation of constituency interests_  (2025) **Under Review**  
 &nbsp; with Vardges Levonyan
 
  <font size="1"> How do elected officials respond when they learn that they are misaligned with their constituencies? While existing research has documented that politicians either update their positions or discount disagreeable public opinion, we propose and investigate a third mechanism: strategic issue avoidance. Using the 2016 Brexit referendum as an exogenous information treatment, we study how Members of Parliament (MPs) responded to sudden, measurable incongruence with their constituencies. Using a difference-in-differences framework comparing Remain-supporting MPs in Leave-voting constituencies to similarly positioned MPs in Remain-voting constituencies, we find that misaligned MPs substantially participate less in EU-related topics following the referendum. This drop in participation is not compensated by increased discussion in other topics. When they do speak about the EU, they avoid stance-taking and their language becomes less extreme. These effects are specific to the EU topic, robust to a wide range of specifications, and not driven by regional or party dynamics. The findings provide the first large-scale causal evidence of strategic issue avoidance in legislative speech and highlight important implications for studying political preferences through text. Specifically, silence may reflect strategic withdrawal rather than moderation or diminished salience, potentially introducing bias into speech-based measures of representation. Additionally, strategic issue avoidance may suppress meaningful debate on high-salience issues, thereby shaping democratic accountability and policy outcomes. </font> 
 
 
-_Staying in Line or Straying for Votes: Party Discipline and Dyadic Representation_ (2025)  
 
-<font size="1"> How does strong party discipline shape legislators' responsiveness to local concerns? In list-based proportional representation systems, parties' control of ballot rankings creates strong incentives to align with party elites, which is postulated to distort the constituency-representative link. I develop a theory of cohesion under PR and test it in Norway -- a uniquely beneficial setting to study party discipline. Leveraging seat security to capture within-party, within-district variations in incentives to align with districts, I show that legislators who are more dependent on local voters to secure reelection deviate more from the party line during local distress, compared to safe MPs. Deviations are rewarded by constituents but penalized by voters in other districts, demonstrating how deviations can benefit the legislator but be costly to the party. This refines our understanding of cohesion under PR by showing how electoral incentives shape legislative behavior not only across electoral systems but also within them. </font> 
-
-
-
-_The female vote and PR adoption_  (2025)   
+_The female vote and PR adoption_  (2026)   
 &nbsp; with Mona Morgan-Collins
 
  <font size="1"> Did women’s suffrage play any role in the adoption of proportional systems (PR)?
@@ -73,13 +75,14 @@ representation. Our results suggest that women’s suffrage alone may not improv
 women’s descriptive and substantive representation if it is not accompanied with an
 otherwise inclusive electoral institution.  </font> 
  
+
+_Staying in Line or Straying for Votes: Party Discipline and Dyadic Representation_ (2025)  
+
+<font size="1"> How does strong party discipline shape legislators' responsiveness to local concerns? In list-based proportional representation systems, parties' control of ballot rankings creates strong incentives to align with party elites, which is postulated to distort the constituency-representative link. I develop a theory of cohesion under PR and test it in Norway -- a uniquely beneficial setting to study party discipline. Leveraging seat security to capture within-party, within-district variations in incentives to align with districts, I show that legislators who are more dependent on local voters to secure reelection deviate more from the party line during local distress, compared to safe MPs. Deviations are rewarded by constituents but penalized by voters in other districts, demonstrating how deviations can benefit the legislator but be costly to the party. This refines our understanding of cohesion under PR by showing how electoral incentives shape legislative behavior not only across electoral systems but also within them. </font> 
+
+
 	
 ### Work in progress
-
-
-_Gendered Voices in Climate Politics: Evidence from the UK Parliament_  
-
- <font size="1">	Are female legislators more attentive to climate change than men? Despite evidence that female voters express greater concern for climate change and more frequently engage in pro-environmental behavior, it remains unclear whether these gender differences are mirrored in legislatures. Using a sharp regression discontinuity design in UK parliamentary elections, I compare the climate attentiveness of women who narrowly won against a man to that of men who narrowly won against a woman. Contrary to expectations based on gender differences in the electorate, I find that narrowly elected women dedicate a significantly smaller share of their term to climate topics than narrowly elected men. This suggests that, at least in the context of climate change, descriptive representation does not mechanically translate into substantive representation. </font> 
 
 
 _The History of Redistributive Arguments_  
@@ -92,8 +95,6 @@ _More Catholic than the Pope? Ethnic Identity and Political Ideology_
 &nbsp; with Apurav Yash Bhatiya, Sahar Parsa, Debraj Ray and Sarah Schneider-Strawczynski
 
 _The causal effect of trust in government on green policymaking_  
-
-_Chilling in the Shade: Climate change resilience and climate change beliefs_  
 
 _Is Anyone Watching? The Effect of Green Social Norms on Self-Conscious Emotions_  
 &nbsp; with Vin Arceneaux and Can Zengin

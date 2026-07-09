@@ -16,7 +16,7 @@ knitr::include_graphics("profile.png")
 
   
   
-I am a Lecturer (Assistant Professor) in Economics at [$\color{darkdarkblue}{\text{King's College London}}$][KCL]'s Department of Political Economy. My research examines the behavior of political elites, with a particular focus on elite strategies and patterns of representation. Much of my work uses text-as-data to investigate how political institutions shape politicians’ behavior and explores the underlying drivers of elite polarization and (mis)representation.
+I am a Lecturer (Assistant Professor) in Economics at [$\color{darkdarkblue}{\text{King's College London}}$][KCL]'s Department of Political Economy. My research examines the behavior of political elites, with a particular focus on elite strategies and patterns of representation. Most of my work uses text-as-data to investigate how political institutions shape politicians’ behavior (e.g., the link between descriptive and substantive representation) and explores the underlying drivers of elite polarization and (mis)representation. I am also researching climate politics.
 
 Before joining KCL I was a postdoc (Bruno Latour Fellow) at Sciences Po's Department of Economics. I obtained my PhD in Economics from BI Norwegian Business School. Two years of my PhD were spent at Harvard University as a Visiting Fellow at the Department of Government.
   
@@ -35,7 +35,7 @@ Before joining KCL I was a postdoc (Bruno Latour Fellow) at Sciences Po's Depart
 
   [email]: mailto:oda.nedregard@kcl.ac.uk
 
-  [CV]: https://www.dropbox.com/scl/fi/5q1cu6foie224sazpv7ad/cv_nedregard.pdf?rlkey=2aswjgq3yky71xvblkk6vnil8&st=k6ur58ed&dl=0
+  [CV]: https://www.dropbox.com/scl/fi/5q1cu6foie224sazpv7ad/cv_nedregard.pdf?rlkey=2aswjgq3yky71xvblkk6vnil8&st=9l6q9l5o&dl=0
 
   [GScholar]: https://scholar.google.com/citations?user=7HrD6BgAAAAJ
   
