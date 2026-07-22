@@ -30,9 +30,9 @@ _Legislative party groups and party cohesion (book chapter)_
 
 
 
-_Gendered Voices in Climate Politics: Evidence from the UK Parliament (2026)_  
+[_Gendered Voices in Climate Politics: Evidence from the UK Parliament (2026)_][Gender_Climate]
 
- <font size="1">	Are female legislators more attentive to climate change than men? Despite evidence that female voters express greater concern for climate change and more frequently engage in pro-environmental behavior, it remains unclear whether these gender differences are mirrored in legislatures. Using a close-election regression discontinuity design on UK Parliamentary speeches, I provide the first causal evidence on the effect of electing a woman instead of a man on climate representation. Contrary to expectations based on gender differences in the electorate, I find that narrowly elected women dedicate a significantly smaller share of their term to climate topics than narrowly elected men. This suggests that, at least in the context of climate change, descriptive representation does not mechanically translate into substantive representation. </font> 
+ <font size="1">	Would electing more women strengthen climate engagement in parliament? Despite evidence that female voters express greater concern for climate change and more frequently engage in pro-environmental behavior, it remains unclear whether these gender differences are mirrored in legislatures. Using a close-election regression discontinuity design on UK Parliamentary speeches, I provide the first causal evidence on the effect of electing a woman instead of a man on climate representation. Contrary to expectations based on gender differences in the electorate, I find that marginally elected women dedicate a significantly smaller share of their term to climate topics than marginally elected men. The negative gender gap extends beyond marginal races. This suggests that, at least in the context of climate change, descriptive representation does not mechanically translate into substantive representation. </font> 
 
 
 
@@ -122,6 +122,8 @@ _All You Need is Love? Romantic Ideals and Gendered Violence_
 
 ["Faglig interesserte studenter fullfører oftere utdanningen"][faglig_interessert], forskning.no (2018)
 
+[Gender_Climate]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7026459
+
 [arbeiderklasse_regjering]: https://www.dn.no/innlegg/politikk/mangfold/forskning/god-kjonnsbalanse-men-hvor-er-distriktene-og-arbeiderklassen/2-1-1785596?zephr_sso_ott=lYArEf
 
 [unge_forskere]: https://www.khrono.no/hun-er-postdoktor-ved-sciences-po-tjener-mindre-enn-som-stipendiat-i-norge/943938
@@ -144,11 +146,13 @@ _All You Need is Love? Romantic Ideals and Gendered Violence_
 [Frafall]: https://oda.oslomet.no/oda-xmlui/handle/20.500.12199/3013
 [InkluderendeArbeidsliv]: https://www.regjeringen.no/no/dokumenter/nyere-kunnskap-om-inkluderende-arbeidsliv-ia/id2628425/
 
-
 [hyttepaaske]: https://www.nrk.no/ytring/hyttepaske-for-hvem_-1.15418469
 [krise]: https://www.aftenposten.no/meninger/kronikk/i/50gQGb/maa-det-en-krise-til-foer-politikerne-vaakner-jon-h-fiva-og-oda-nedregaard
+
 [amerikanske_tilstander]: https://www.dagsavisen.no/debatt/2019/12/10/amerikanske-tilstander/
+
 [faglig_interessert]: https://forskning.no/oslomet-skole-og-utdanning-partner/faglig-interesserte-studenter-fullforer-oftere-utdanningen/1231170
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
