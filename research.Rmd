@@ -94,6 +94,8 @@ We construct the first long-run, speech-level dataset of pro- and anti-redistrib
 _More Catholic than the Pope? Ethnic Identity and Political Ideology_  
 &nbsp; with Apurav Yash Bhatiya, Sahar Parsa, Debraj Ray and Sarah Schneider-Strawczynski
 
+ <font size="1">How does the ethnic background of legislators shape their ideological positioning? Developing a novel method to measure ideological extremity in parliamentary debates, we study the causal effect of MPs’ minority background on their positioning in the UK House of Commons. While minority voters tend to be more ideologically moderate, we find that minority MPs deliver speeches that are more ideologically extreme than their ethnic white counterparts. The results are driven by ethnic minorities catering to white voters in their constituencies and align with a model where candidates strategically overcompensate for traits that may invite electoral penalty by signaling ideological adherence. These findings contribute to the literature on the link between descriptive and substantive representation and demonstrate that a descriptively more inclusive legislature might not automatically result in improved representation of minority interests in the presence of electoral frictions. </font> 
+
 _The causal effect of trust in government on green policymaking_  
 
 _Is Anyone Watching? The Effect of Green Social Norms on Self-Conscious Emotions_  
